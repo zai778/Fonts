@@ -1,4 +1,11 @@
-A {
+body {
+  font-size: 45px;
+  background-color: black;
+  font-weight: bold;
+  margin-left: 200px;
+}
+
+.A {
   color: aqua;
   font-family: "Courier New", Courier, monospace;
 }

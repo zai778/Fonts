@@ -1,8 +1,9 @@
 body {
-  font-size: 45px;
+  font-size: 65px;
   background-color: black;
   font-weight: bold;
-  margin-left: 200px;
+
+  padding: 4rem;
 }
 
 .A {

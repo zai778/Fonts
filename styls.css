@@ -1,0 +1,82 @@
+A {
+  color: aqua;
+  font-family: "Courier New", Courier, monospace;
+}
+.b {
+  color: blue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.c {
+  color: blueviolet;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.d {
+  color: brown;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.f {
+  color: burlywood;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.g {
+  color: chartreuse;
+  font-family: "Times New Roman", Times, serif;
+}
+.h {
+  color: chocolate;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.i {
+  color: coral;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.j {
+  color: cornflowerblue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.k {
+  color: crimson;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.l {
+  color: darkblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.m {
+  color: darkgoldenrod;
+  font-family: serif;
+}
+.n {
+  color: darkgreen;
+  font-family: fantasy;
+}
+.o {
+  color: darkmagenta;
+  font-family: monospace;
+}
+.p {
+  color: darkred;
+  font-family: sans-serif;
+}
+.q {
+  color: deeppink;
+  font-family: "Koulen", cursive;
+}
+.r {
+  color: fuchsia;
+  font-family: "Noto Sans JP", sans-serif;
+}
+.s {
+  color: gold;
+  font-family: "Macondo", cursive;
+}
+.t {
+  color: lime;
+  font-family: "Oleo Script Swash Caps", cursive;
+}
+.u {
+  color: darkslategrey;
+  font-family: "Zen Loop", cursive;
+}
